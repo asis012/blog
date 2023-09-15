@@ -1,10 +1,15 @@
-# README
+Ruby on Rails Blog Project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a Ruby on Rails blog project that I used while learning. I added the following features:
+- Login and logout
+- Add/delete/edit posts
+- Follow and unfollow users
+- View the blog of another user
 
-This is a Ruby on Rails project I used while learning, Here I have added some features like
-1. The user has the ability to login and logout
-2. The user has the ability to add/delete/edit post
-3. One user can follow another user and show a following and followers list
-4. Users can see the blog of another user whom they followed
+I also learned the following important topics:
+- Creating routes
+- Creating migration files and rake tasks
+- Using ORM for Active Record Associations
+- Using Rspec for TDD
+- Understanding the MVC pattern
+- Understanding different gems like devise and pundit for authentication and authorization
